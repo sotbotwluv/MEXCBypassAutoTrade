@@ -71,7 +71,7 @@ Enter the following information in sequence:
 
 ---
 
-## ⚙️ 5. Bot Functionality Description
+## ⚙️ 5. Bot Functionality Description - BETA version
 
 - The bot operates based on a pre-programmed strategy (1-minute scalping).
 - The default trade volume should be about **0.1% of the account**.
