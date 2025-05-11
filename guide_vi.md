@@ -72,7 +72,7 @@ Nhập lần lượt các thông tin theo thứ tự sau:
 
 ---
 
-## ⚙️ 5. Mô Tả Hoạt Động Của Bot
+## ⚙️ 5. Mô Tả Hoạt Động Của Bot - BETA version
 
 - Bot hoạt động theo chiến lược đã lập trình sẵn (Scalping khung 1 phút).
 - Volume giao dịch mặc định nên để khoảng **0.1% tài khoản**.
