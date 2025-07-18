@@ -76,16 +76,14 @@ Nhập lần lượt các thông tin theo thứ tự sau:
 
 ---
 
-## ⚙️ 5. Mô Tả Hoạt Động Của Bot - BETA version
+## ⚙️ 5. Mô Tả Hoạt Động Của Bot - Version 2.0
 
-- Bot hoạt động theo chiến lược đã lập trình sẵn (Scalping khung 1 phút).
-- Volume giao dịch mặc định nên để khoảng **0.1% tài khoản**.
-- Trong bản thử nghiệm, **volume cơ sở là 0.2 USDT** mỗi lệnh.
-- Tổng khối lượng giao dịch đồng thời tối đa ~3-5% tài khoản.
-- Hãy **đảm bảo 0.2 USDT tương đương ~0.1% tài khoản của bạn** để tối ưu quản lý vốn.
-- Nếu muốn test trải nghiệm bản beta thì nên để từ 30-50 USDT.
+- Bot hoạt động theo chiến lược đã lập trình sẵn (Scalping khung 1, 3, 5 phút).
+- Volume giao dịch mặc định nên để khoảng **0.08% tài khoản**.
+- Mặc định sau khi đăng ký, **volume cơ sở là 0.2 USDT** mỗi lệnh. (Mỗi lệnh có hệ số vol khác nhau, vol cơ sở sẽ nhân với hệ số ra vol thực tế khi vào lệnh)
+- Tổng khối lượng giao dịch đồng thời tối đa ~8-12% tài khoản.
 
 📢 **Kênh tín hiệu chính thức:**  
-🔗 [Telegram - MEXC Scalping Bypass](https://t.me/mexcscalpingbypass)
+🔗 [Telegram - MEXC Scalping Bypass](https://t.me/sotcforme)
 
 ---
