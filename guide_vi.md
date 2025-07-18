@@ -56,11 +56,10 @@ u_id cookie sẽ có thời gian giới hạn, hãy đảm bảo kiểm tra thô
 
 ---
 
-## 🔒 3. Bảo Mật & Miễn Trừ Trách Nhiệm
+## 🔒 3. Bảo Mật
 
 - Luôn **bật xác thực 2 bước (2FA)** qua Google Authenticator hoặc SMS.
-- Đội ngũ phát triển **không chịu trách nhiệm** nếu người dùng bị mất tài sản do không bảo mật key đúng cách.
-
+- 
 ---
 
 ## 🧩 4. Nhập Key Vào Ứng Dụng
