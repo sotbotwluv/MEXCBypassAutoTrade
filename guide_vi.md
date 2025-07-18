@@ -51,7 +51,7 @@
 ✅ Do đó, việc sử dụng `u_id` là **tương đối an toàn** cho bot client-side.
 
 ## Lưu ý:
-u_id cookie sẽ có thời gian giới hạn, hãy đảm bảo kiểm tra thông tin thường xuyên để có thể cập nhật key mới qua [BOT](https://t.me/sot_mexc_autotrade_bot)
+u_id cookie sẽ có thời gian giới hạn, hãy đảm bảo kiểm tra thông tin thường xuyên để có thể cập nhật key mới qua [BOT](https://t.me/sot_mexc_global_auto_trade_bot)
 
 
 ---
